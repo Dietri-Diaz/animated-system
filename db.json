@@ -1,0 +1,20 @@
+{
+  "seguros": [
+    {
+      "id": 1,
+      "nroCita": 1001,
+      "nombrePaciente": "Juan Pérez",
+      "tipoSeguro": "1",
+      "sexo": "1",
+      "especialidad": "Cardiología"
+    },
+    {
+      "id": 2,
+      "nroCita": 1002,
+      "nombrePaciente": "Díaz Asto [TU_NOMBRE_COMPLETO]",
+      "tipoSeguro": "2",
+      "sexo": "1",
+      "especialidad": "Traumatología"
+    }
+  ]
+}
